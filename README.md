@@ -1,2 +1,4 @@
 # todayInHistory
-Show events of things that happened on a date in history.
+Python web scraper for events that happened on a date in history.
+
+https://www.britannica.com/on-this-day
